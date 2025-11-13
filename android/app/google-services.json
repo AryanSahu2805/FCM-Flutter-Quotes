@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101268382978",
+    "project_id": "fcm-flutter-quotes",
+    "storage_bucket": "fcm-flutter-quotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101268382978:android:4d87ae53e207732087ce1b",
+        "android_client_info": {
+          "package_name": "com.example.inclass_17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0L5g50IyWgwkSY524g7tO_b-fY1jmi8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101268382978:android:b995dca87c0984e287ce1b",
+        "android_client_info": {
+          "package_name": "com.example.messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0L5g50IyWgwkSY524g7tO_b-fY1jmi8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

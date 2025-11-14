@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259891443830",
+    "project_id": "fcm-quotes-app",
+    "storage_bucket": "fcm-quotes-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259891443830:android:d08b56516ac06c1cc7c757",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkHifiOHNk8clTb_FJFmnH1OQteMJCBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
